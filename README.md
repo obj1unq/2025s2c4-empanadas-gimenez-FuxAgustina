@@ -1,8 +1,4 @@
-# Empanadas Giménez
-
-<img src="img/empanadasGimenez.png" height="200" width="300">
-
-## Planteo inicial
+# Empan## Planteo inicial
 
 En "Empanadas Giménez", un modesto local de delivery de empanadas, tenemos dos empleados:
 
@@ -34,6 +30,10 @@ Ahora queremos agregar al modelo aquellos que hacen los empleados cuando cobran 
   - Baigorria cuando cobra el sueldo lo suma a un acumulador de todo lo que cobró, agregarle la capacidad de entender el mensaje `totalCobrado()`. 
     _Nota: Ojo con las ganancias del mes pasado que ya le pagaron a Baigorria! ¿Qué debe pasar con la cantidad de empanadas vendidas?_
   - Galván no hace nada.
+adas Giménez
+
+<img src="img/empanadasGimenez.png" height="200" width="300">
+
 
 <br>
 
